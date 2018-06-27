@@ -63,9 +63,15 @@ size_t TreeHeight(TreeNode* root);
 
 TreeNode* TreeFind(TreeNode* root, TreeNodeType to_find); 
 
+<<<<<<< HEAD
 TreeNode* LChild(TreeNode* node); 
 
 TreeNode* RChild(TreeNode* node); 
+=======
+TreeNode* LChild(TreeNode* root,TreeNode* node); 
+
+TreeNode* RChild(TreeNode* root,TreeNode* node); 
+>>>>>>> 903a053dd2769f8aa8cb863587e4f0bc045ae073
 
 TreeNode* Parent(TreeNode* root, TreeNode* node); 
 

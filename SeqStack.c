@@ -138,8 +138,17 @@ void test()
     testDestroy();
 }
 
+<<<<<<< HEAD
 int main()
 {
     test();
     return 0;
 }
+=======
+//int main()
+//{
+//    test();
+//    return 0;
+//}
+
+>>>>>>> 903a053dd2769f8aa8cb863587e4f0bc045ae073
